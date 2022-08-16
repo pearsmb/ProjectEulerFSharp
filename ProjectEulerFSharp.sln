@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ProjectEulerFSharp", "ProjectEulerFSharp\ProjectEulerFSharp.fsproj", "{2CE20B86-85D0-4178-A131-5329C942E868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE20B86-85D0-4178-A131-5329C942E868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE20B86-85D0-4178-A131-5329C942E868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE20B86-85D0-4178-A131-5329C942E868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE20B86-85D0-4178-A131-5329C942E868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
